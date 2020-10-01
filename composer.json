@@ -1,0 +1,12 @@
+{
+    "name": "asus/uyelik",
+    "authors": [
+        {
+            "name": "asus",
+            "email": "mkutuk42550@gmail.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "^7.8"
+    }
+}
